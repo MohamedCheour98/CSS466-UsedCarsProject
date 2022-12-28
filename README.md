@@ -6,3 +6,12 @@ The objective of this project is to identify the transmission of a car by lookin
 This is a case study of a supervised learning where the algorithm is first trained on a set of cars, and then used to classify new data. 
 
 NB: We have not taken into account any car transmission types other than Manual and Automatic. 
+
+In this project, the following methods were used for classification:
+
+1. Scikit-learn neural network Multi-layer Perceptron classifier.
+2. Single Layer Neural Network algorithm built from scratch.
+3. Scikit-learn Categorical Bayesian Classifier
+4. Categorical Bayesian Classifier built from scratch.
+
+We look at how these methods perform with our data, interpret the results based on the target and finally investigate the limitations on accuracy posed by the dataset itself if any.
