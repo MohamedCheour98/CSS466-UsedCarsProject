@@ -1,4 +1,4 @@
-**Predicting Car’s Transmission Types**
+## Predicting Car’s Transmission Types  
 
 The objective of this machine learning Python application is to identify the transmission of a car by looking at the brand, the model, the year, the type of fuel, and several other features characterizing automobiles in the Indian used car market which is expected to reach USD 74.70 billion in 2027 according to the India Used Car Market report published by Modor Intelligence in 2021. 
 
